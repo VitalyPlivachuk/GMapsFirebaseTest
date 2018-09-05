@@ -1,0 +1,6 @@
+framework module Pods_GBKSOFTTest {
+  umbrella header "Pods-GBKSOFTTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
